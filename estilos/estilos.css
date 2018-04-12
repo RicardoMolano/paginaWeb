@@ -1,0 +1,47 @@
+/*asigno cer a todos los estilos*/
+
+*{
+	border:0;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #fff;
+}
+
+#contenedor{
+
+	height: 1050px;
+	width: 1170px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header, #opciones{
+/*Aquí ingresar el logo y la leyenda*/
+	background: #FF8000;
+	width: 780;
+	height: 250px;
+		
+	} 
+
+/*Colocando el padding al header para que se vea mejor el logo*/
+header{
+padding: 15px 15px;
+
+}
+
+/*Aquí va La presentación del curso, Material de apoyo escrito, */
+/*Material de Apoyo individual*/
+#opciones{
+	background: #666;
+	height: 550px;
+}
+
+footer{
+
+	background: #FF8000;
+	width: 1170px;
+	height: 100px;
+}
+
